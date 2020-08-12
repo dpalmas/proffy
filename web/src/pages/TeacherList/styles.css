@@ -18,7 +18,7 @@
 
 @media (min-width: 700px) {
   #page-teacher-list {
-    max-width: 100%;
+    max-width: 100vw;
   }
 
   #search-teachers {
@@ -29,7 +29,8 @@
     bottom: -28px;
   }
 
-  #search-teachers .input-block + .input-block {
+  #search-teachers .input-block + .input-block,
+  #search-teachers .select-block + .select-block {
     margin-top: 0; 
   }
 

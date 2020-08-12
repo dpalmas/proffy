@@ -1,4 +1,4 @@
-import React, { TextareaHTMLAttributes }from 'react';
+import React, { TextareaHTMLAttributes } from 'react';
 
 import './styles.css';
 

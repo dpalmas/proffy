@@ -1,4 +1,4 @@
-import React, { InputHTMLAttributes }from 'react';
+import React, { InputHTMLAttributes } from 'react';
 
 import './styles.css';
 
