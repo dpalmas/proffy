@@ -42,9 +42,7 @@ Estilos:
 
 ## :thinking: Sobre este Projeto
 
-O **Proffy** é uma aplicação Web e Mobile feita para auxiliar na conexão entre os alunos e os professores. Logo, esta aplicação oferece aos professores a possibilidade de registrar aulas, podendo adicionar informações como a disciplina, o custo e horário e aos alunos a possibilidade de buscar pelas aulas cadastradas.
-  
-Este projeto foi idealizado pensando no **6 de agosto**, onde se comemora o **Dia Nacional dos Profissionais da Educação**.
+O **Proffy** é uma plataforma de estudos online que ajuda pessoas a encontrarem professores online.
   
 Essa aplicação foi desenvolvida durante a **Next Level Week #2**, projeto da [Rocketseat](https://rocketseat.com.br/).
 
