@@ -7,11 +7,11 @@ export async function up(knex: Knex) {
     table.decimal('cost').notNullable();
 
     table.integer('user_id')
-    .notNullable()
-    .references('id')
-    .inTable('users')
-    .onUpdate('CASCADE')
-    .onDelete('CASCADE');
+      .notNullable()
+      .references('id')
+      .inTable('users')
+      .onUpdate('CASCADE')
+      .onDelete('CASCADE');
   });
 }
 
