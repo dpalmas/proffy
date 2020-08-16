@@ -3,7 +3,7 @@
 }
 
 .textarea-block + .textarea-block {
-  margin-top: 1.4rem; 
+  margin-top: 1.4rem;
 }
 
 .textarea-block label {
@@ -22,7 +22,7 @@
   resize: vertical;
   padding: 1.2rem 1.6rem;
   font: 1.6rem Archivo;
-} 
+}
 
 .textarea-block:focus-within::after {
   width: calc(100% - 3.2rem);
