@@ -48,7 +48,7 @@ Essa aplicação foi desenvolvida durante a **Next Level Week #2**, projeto da [
 
 
 <p align="center">
-  <img alt="BeTheHero" src=".github/Proffy.png" width="100%">
+  <img alt="Proffy" src=".github/Proffy.png" width="100%">
 </p>
 
 ## :computer: Instalação
